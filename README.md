@@ -11,7 +11,7 @@
 ## 🧑‍🚀 About Me
 - I am a full-stack developer dedicated to building efficient, structured software across diverse technical stacks.
 - With experience spanning frontend design, backend systems, and network analysis, I bridge the gap between user experience and system reliability.
-## ✨ Fun Facts
+## - Aclan Nasipit Agusan Del Norte
 
 - I enjoy analyzing network traffic to see exactly how data moves across the web
 
